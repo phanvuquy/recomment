@@ -1,0 +1,14 @@
+id,outlook,temperature,level,reputation,play
+1,Clear,hot,high,high,no
+2,Clouds,hot,high,high,no
+3,Rain,hot,high,low,yes
+4,Thunderstorm,mild,high,normal,yes
+5,Snow,cool,normal,normal,yes
+6,Mist,cool,normal,normal,no
+7,Clear,cool,normal,high,yes
+8,Clouds,mild,high,high,no
+9,Rain,cool,normal,low,yes
+10,Thunderstorm,mild,normal,normal,yes
+11,Snow,mild,normal,normal,yes
+12,Mist,mild,high,normal,yes
+
